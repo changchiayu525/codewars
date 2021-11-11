@@ -13,4 +13,4 @@ Zero (0) is not checked for any specific sign. Negative zeros make no mathematic
 
 """
 def make_negative(number):
-    return number * -1 if number > 0 else number   
+    return number * -1 if number > 0 else number
