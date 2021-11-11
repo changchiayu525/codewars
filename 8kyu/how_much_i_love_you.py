@@ -25,6 +25,6 @@ def how_much_i_love_you(nb_petals):
     elif nb_petals % 6 == 0:
         return "not at all"
 
-# other user's sollution    
+# other user's solution    
 def how_much_i_love_you(nb_petals):
     return ["I love you", "a little", "a lot", "passionately", "madly", "not at all"][nb_petals % 6 - 1]
